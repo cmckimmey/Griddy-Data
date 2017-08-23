@@ -27,5 +27,5 @@ Syntax highlighted code block
 ```
 # Hello World! 
 
-My name is GITHUB_USERNAME
+My name is Courtney! 
 
