@@ -14,4 +14,4 @@ A few things about me:
 
 # Explore My Portfolio
 
-[Data Cleaning Projects](https://github.com/cmckimmey/GriddyData.wiki.git)
+[Data Cleaning Projects](GriddyData/Data-Cleaning)
