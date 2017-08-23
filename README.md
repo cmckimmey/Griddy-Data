@@ -10,3 +10,8 @@ A few things about me:
 - I take my nalgene water bottle everywhere 
 - I am really into politics
 - I try to live minimally
+
+
+# Explore My Portfolio
+
+[Data Cleaning Projects](https://github.com/cmckimmey/GriddyData.wiki.git)
